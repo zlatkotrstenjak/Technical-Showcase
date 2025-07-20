@@ -1,0 +1,49 @@
+product_id,name,category,sub_category,cost_price
+1,Debate Chair,Furniture,Chair,462.62
+2,Glass Chair,Furniture,Chair,392.28
+3,Short Chair,Furniture,Chair,208.8
+4,About Chair,Furniture,Chair,336.6
+5,Also Desk,Furniture,Desk,368.85
+6,Major Desk,Furniture,Desk,127.84
+7,Age Desk,Furniture,Desk,83.8
+8,Result Desk,Furniture,Desk,352.13
+9,Adult Table,Furniture,Table,194.36
+10,Question Table,Furniture,Table,24.17
+11,Something Table,Furniture,Table,237.99
+12,Send Table,Furniture,Table,103.79
+13,Area Bookshelf,Furniture,Bookshelf,459.63
+14,Network Bookshelf,Furniture,Bookshelf,178.08
+15,Several Bookshelf,Furniture,Bookshelf,411.17
+16,Explain Bookshelf,Furniture,Bookshelf,436.3
+17,South Laptop,Technology,Laptop,115.35
+18,See Laptop,Technology,Laptop,331.72
+19,Argue Laptop,Technology,Laptop,202.24
+20,Employee Laptop,Technology,Laptop,142.91
+21,Pm Monitor,Technology,Monitor,39.36
+22,Watch Monitor,Technology,Monitor,387.8
+23,Five Monitor,Technology,Monitor,178.82
+24,Great Monitor,Technology,Monitor,257.16
+25,Position Phone,Technology,Phone,341.36
+26,Figure Phone,Technology,Phone,422.61
+27,Particularly Phone,Technology,Phone,168.92
+28,Address Phone,Technology,Phone,18.66
+29,Able Tablet,Technology,Tablet,439.13
+30,Middle Tablet,Technology,Tablet,134.3
+31,Executive Tablet,Technology,Tablet,292.39
+32,Ability Tablet,Technology,Tablet,491.86
+33,Write Pen,Office Supplies,Pen,23.94
+34,Name Pen,Office Supplies,Pen,300.3
+35,During Pen,Office Supplies,Pen,176.12
+36,Yet Pen,Office Supplies,Pen,394.28
+37,Development Notebook,Office Supplies,Notebook,221.01
+38,Role Notebook,Office Supplies,Notebook,492.2
+39,Thing Notebook,Office Supplies,Notebook,62.24
+40,Those Notebook,Office Supplies,Notebook,450.25
+41,Prove Stapler,Office Supplies,Stapler,99.09
+42,Ability Stapler,Office Supplies,Stapler,26.97
+43,Mission Stapler,Office Supplies,Stapler,220.85
+44,Whose Stapler,Office Supplies,Stapler,262.36
+45,Letter Paper,Office Supplies,Paper,404.22
+46,Catch Paper,Office Supplies,Paper,344.99
+47,Shake Paper,Office Supplies,Paper,470.43
+48,Option Paper,Office Supplies,Paper,369.83
