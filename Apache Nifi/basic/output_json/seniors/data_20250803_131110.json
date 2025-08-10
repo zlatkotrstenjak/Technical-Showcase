@@ -1,0 +1,13 @@
+[ {
+  "id" : 3,
+  "name" : "Charlie",
+  "age" : 35,
+  "status" : "active",
+  "age_group" : "senior"
+}, {
+  "id" : 4,
+  "name" : "Dan",
+  "age" : 32,
+  "status" : "active",
+  "age_group" : "senior"
+} ]

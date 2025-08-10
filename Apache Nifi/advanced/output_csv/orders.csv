@@ -1,0 +1,6 @@
+order_id,customer_id,customer_name,country,product_id,product_name,price,category,quantity,order_date,currency,tax_rate,subtotal,tax_amount,total_amount,total_eur
+ORD001,CUST1001,Alice Smith,USA,PROD2001,Smartphone,699.99,Electronics,2,2025-08-01,USD,0.07,1399.98,98.0,1497.98,1286.765
+ORD002,CUST1002,Bob Lee,Germany,PROD2002,Vacuum Cleaner,199.99,Home Appliances,1,2025-08-02,EUR,0.19,199.99,38.0,237.99,237.99
+ORD003,CUST1003,Charlie Zhao,UK,PROD2003,Desk Chair,129.99,Furniture,5,2025-08-02,USD,0.2,649.95,129.99,779.94,669.968
+ORD004,CUST1002,Bob Lee,Germany,PROD2001,Smartphone,699.99,Electronics,1,2025-08-03,GBP,0.19,699.99,133.0,832.99,961.27
+ORD005,CUST1001,Alice Smith,USA,PROD2003,Desk Chair,129.99,Furniture,3,2025-08-03,USD,0.07,389.97,27.3,417.27,358.435

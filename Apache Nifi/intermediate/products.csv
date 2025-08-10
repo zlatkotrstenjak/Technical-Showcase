@@ -1,0 +1,7 @@
+product_id,product_name,price,category_code,stock
+1001,Smartphone,699.99,ELC,35
+1002,Jeans,49.99,CLT,120
+1003,Laptop,,ELC,20
+1004,Vacuum Cleaner,129.99,HOM,15
+1005,Sneakers,89.99,CLT,0
+1006,Blender,59.99,,25

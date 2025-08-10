@@ -1,0 +1,3 @@
+product_id,product_name,price,category_code,category_name,stock
+1003,Laptop,,ELC,,20
+1006,Blender,59.99,,,25

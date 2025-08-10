@@ -1,0 +1,5 @@
+product_id,product_name,price,category_code,category_name,stock,status,processed_at
+1001,Smartphone,699.99,ELC,Electronics,35,processed,2025-08-05 22:46:15
+1002,Jeans,49.99,CLT,Clothing,120,processed,2025-08-05 22:46:15
+1004,Vacuum Cleaner,129.99,HOM,Home Appliances,15,processed,2025-08-05 22:46:15
+1005,Sneakers,89.99,CLT,Clothing,0,processed,2025-08-05 22:46:15
